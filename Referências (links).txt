@@ -1,0 +1,12 @@
+
+
+JDK
+https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html
+
+-------------------------------------------------------------------
+PYTHON
+https://www.python.org
+
+-------------------------------------------------------------------
+IDE PYTHON
+https://www.jetbrains.com/pt-br/pycharm/download/#section=windows
