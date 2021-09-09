@@ -10,3 +10,24 @@ https://www.python.org
 -------------------------------------------------------------------
 IDE PYTHON
 https://www.jetbrains.com/pt-br/pycharm/download/#section=windows
+
+-------------------------------------------------------------------
+MANIPULANDO AMBIENTE VIRTUAL PELO TERMINAL DO LINUX
+
+- CRIAÇÃO
+$ mkvirtualenv nomeAmbiente
+
+- REMOVER
+$ rmvirtualenv nomeAmbiente
+
+- SAIR
+$ deactivate
+
+- ENTRAR
+$ workon nomeAmbiente
+
+- INFORMAÇÃO VERSÃO PYTHON
+$ python
+
+- INFORMAÇÃO VERSÃO PYTHON (SAIR)
+ctrl+d
