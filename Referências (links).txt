@@ -1,7 +1,7 @@
 
 
 JDK
-https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html
+https://www.oracle.com/br/java/technologies/
 
 -------------------------------------------------------------------
 PYTHON
